@@ -78,7 +78,7 @@ Pull requests and issues are welcome! Please see [`CONTRIBUTING.md`](CONTRIBUTIN
 ## ❓ FAQ
 
 **Q: Can I use this system offline?**  
-A: Yes! All processing is local. No data leaves your machine.
+A: Yes! All processing is local. No data leaves your machine. You only need connection if you need to use an LLM API. NOTE: all ambeddings made by mxbai-large ollama in your machine.
 
 **Q: How do I add new research modes or pipelines?**  
 A: See the architecture and code comments for extension points, or open an issue for guidance.
