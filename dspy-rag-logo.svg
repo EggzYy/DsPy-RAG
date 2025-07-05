@@ -1,0 +1,22 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="140" viewBox="0 0 480 140">
+  <!-- Background (transparent) -->
+  <rect width="100%" height="100%" fill="none" />
+
+  <!-- Icon: three interconnected agent nodes -->
+  <!-- Lines -->
+  <line x1="70" y1="45" x2="40" y2="90" stroke="#2D74DA" stroke-width="4" />
+  <line x1="70" y1="45" x2="100" y2="90" stroke="#2D74DA" stroke-width="4" />
+  <line x1="40" y1="90" x2="100" y2="90" stroke="#2D74DA" stroke-width="4" />
+
+  <!-- Circles -->
+  <circle cx="70" cy="45" r="14" fill="#2D74DA" />
+  <circle cx="40" cy="90" r="14" fill="#00B2FF" />
+  <circle cx="100" cy="90" r="14" fill="#00B2FF" />
+
+  <!-- Text: DsPy- -->
+  <text x="140" y="85" font-family="Verdana, Geneva, sans-serif" font-size="54" font-weight="bold" fill="#2D74DA">DsPy-</text>
+
+  <!-- Text: RAG with accent color -->
+  <text x="330" y="85" font-family="Verdana, Geneva, sans-serif" font-size="54" font-weight="bold" fill="#00B2FF">RAG</text>
+</svg>
