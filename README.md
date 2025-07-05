@@ -1,7 +1,7 @@
 # Local File Research System
 
 <p align="center">
-  <img src="assets/dspy-rag-logo.svg" alt="Project Logo" width="120"/>
+  <img src="assets/dspy-rag-logo.svg" alt="Project Logo"/>
 </p>
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue?logo=python)
