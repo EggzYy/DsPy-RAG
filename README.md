@@ -1,7 +1,7 @@
 # Local File Research System
 
 <p align="center">
-  <img src="https://placehold.co/200x200?text=Logo" alt="Project Logo" width="120"/>
+  <img src="assets/dspy-rag-logo.svg" alt="Project Logo" width="120"/>
 </p>
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue?logo=python)
@@ -22,14 +22,6 @@
 - **User authentication** and collaboration tools
 - **Analytics and reporting** for insights
 - **Easy extensibility** for new research modes and pipelines
-
----
-
-## 🖥️ Demo
-
-<p align="center">
-  <img src="https://placehold.co/600x300?text=Demo+Screenshot" alt="Demo Screenshot"/>
-</p>
 
 ---
 
