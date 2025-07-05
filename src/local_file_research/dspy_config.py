@@ -7,8 +7,8 @@ from .config import ( # Import defaults from config.py
     DEFAULT_DSPY_LLM_MODEL,
     DEFAULT_DSPY_TEMPERATURE,
     DEFAULT_DSPY_MAX_TOKENS,
-    LOG_LEVEL, # +++ ADD THIS +++
-    OLLAMA_API_BASE # +++ ADD THIS +++
+    LOG_LEVEL,
+    OLLAMA_API_BASE
 )
 import logging
 import warnings
