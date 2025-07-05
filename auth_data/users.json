@@ -1,0 +1,35 @@
+{
+  "EmoGun": {
+    "username": "EmoGun",
+    "email": "emogun@gmail.com",
+    "password_hash": "05d61c519b9cdf5e014db889c3a4a2ac51c8453483edc9728fd798d560a61d02",
+    "salt": "fd990e8c628074aacb3f2a9371d3c174",
+    "role": "user",
+    "created_at": "2025-04-26T16:12:47.035753",
+    "last_login": "2025-04-30T06:50:45.544305",
+    "totp_secret": "IHP5X5SJHZCLVSFGDAJTBN7C4USZDC4Q",
+    "totp_enabled": true
+  },
+  "EmoGun1": {
+    "username": "EmoGun1",
+    "email": "emogun@gmail.com",
+    "password_hash": "63e885570957e2f382dde6190aafcf4c255e456b3a48841853184a8dc3ec87b0",
+    "salt": "ce470a0c4ced04ae95baa4f9721ad173",
+    "role": "user",
+    "created_at": "2025-04-26T17:01:48.108978",
+    "last_login": "2025-04-26T17:02:02.646093",
+    "totp_secret": null,
+    "totp_enabled": false
+  },
+  "emogun": {
+    "username": "emogun",
+    "email": "emogun@gmail.com",
+    "password_hash": "9f4c85132f7cae69abb9655c493f44a79f05937c4ac98dc17f574123426ad670",
+    "salt": "0df2c199010f09800d09bbada07b74a0",
+    "role": "user",
+    "created_at": "2025-06-19T20:07:39.812481",
+    "last_login": "2025-06-20T18:24:25.096728",
+    "totp_secret": null,
+    "totp_enabled": false
+  }
+}

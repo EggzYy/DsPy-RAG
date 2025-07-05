@@ -1,0 +1,53 @@
+# Core dependencies
+fastapi
+uvicorn
+pydantic
+python-multipart
+python-dotenv
+
+# Vector search
+faiss-cpu
+numpy
+scikit-learn
+llama-index-core
+llama-index-vector-stores-faiss
+
+# Document processing
+PyPDF2
+python-docx
+openpyxl
+beautifulsoup4
+markdown
+pymupdf  # fitz
+python-pptx
+
+# Embedding models
+sentence-transformers
+requests
+
+# DSPy integration
+dspy
+openai
+litellm
+packaging
+
+# CLI
+typer
+rich
+
+# UI
+streamlit
+plotly
+pandas
+
+# Security
+python-jose
+passlib
+bcrypt
+pyotp
+qrcode
+pillow  # Required for qrcode
+
+# Testing (development only)
+pytest
+pytest-cov
